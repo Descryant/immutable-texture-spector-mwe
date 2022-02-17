@@ -1,2 +1,1 @@
-# immutable-texture-spector-mwe
-MWE demonstrating the difference between mutable and immutable textures in Spector.
+MWE for https://github.com/BabylonJS/Spector.js/issues/227
